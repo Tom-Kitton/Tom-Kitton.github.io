@@ -5,7 +5,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	color: white;
+	color: #ffffff;
 	background-color: lightgrey;
 	margin-top: 70px;
 	margin-right:70px;
@@ -15,7 +15,7 @@ h2 {
 
 h3 {
 	text-align: center;
-	color: white;
+	color: #ffffff;
 	background-color: lightgrey;
 	margin-top: 70px;
 	margin-right:70px;
@@ -24,9 +24,9 @@ h3 {
 }
 
 
-p {
+body {
 	text-align: justify;
-    background-color: white;
+    background-color: lightgrey;
     margin-top: 70px;
 	margin-right:70px;
 	margin-bottom: 70px;
