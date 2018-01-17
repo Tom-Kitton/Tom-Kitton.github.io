@@ -1,3 +1,7 @@
+body {
+    background-color: lightblue;
+}
+
 #container{
   width: 70%;
   margin: auto;
