@@ -1,12 +1,13 @@
 h1 {
-	color: black;
+	color: #ffffff;
+	background-color: black; 
 	text-align: center;
 	}
 
 h2 {
 	text-align: center;
 	color: #ffffff;
-	background-color: lightgrey;
+	background-color: black;
 	margin-top: 70px;
 	margin-right:70px;
 	margin-bottom: 70px;
@@ -16,7 +17,7 @@ h2 {
 h3 {
 	text-align: center;
 	color: #ffffff;
-	background-color: lightgrey;
+	background-color: black;
 	margin-top: 70px;
 	margin-right:70px;
 	margin-bottom: 70px;
