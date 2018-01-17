@@ -3,7 +3,14 @@ color: black;
 text-align: center;
 	}
 
+h2,h3 {
+color: black
+margin-left: 200px;
+}
+
+
 body {
+	align-content: justify;
     background-color: lightgrey;
     margin-top: 70px;
 	margin-right:70px;
