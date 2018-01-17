@@ -27,10 +27,12 @@ h3 {
 
 p {
 	text-align: justify;
-    background-color: lightgrey;
+    background-color: #ffffff;
     margin-top: 50px;
 	margin-right:70px;
 	margin-bottom: 70px;
 	margin-left: 70px;
 }
-
+body {
+	background-color: lightgrey;
+}
