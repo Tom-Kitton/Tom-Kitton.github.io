@@ -3,15 +3,22 @@ color: black;
 text-align: center;
 	}
 
-h2,h3 {
-color: black
+h2 {
+color: black;
 margin-left: 200px;
+background-color: lightgrey;
+}
+
+h3 {
+color: black;
+margin-left: 200px;
+background-color: lightgrey;
 }
 
 
 p {
 	align-content: left;
-    background-color: lightgrey;
+    background-color: white;
     margin-top: 70px;
 	margin-right:70px;
 	margin-bottom: 70px;
