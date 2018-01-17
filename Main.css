@@ -4,16 +4,16 @@ text-align: center;
 	}
 
 h2 {
-align-content: center;
-color: black;
+text-align: center
+color: white;
 margin-left: 200px;
 margin-right: 200px;
 background-color: lightgrey;
 }
 
 h3 {
-align-content: center;
-color: black;
+text-align: center
+color: white;
 margin-left: 200px;
 margin-right: 200px;
 background-color: lightgrey;
@@ -21,7 +21,7 @@ background-color: lightgrey;
 
 
 p {
-	align-content: left;
+	text-align: justify;
     background-color: white;
     margin-top: 70px;
 	margin-right:70px;
