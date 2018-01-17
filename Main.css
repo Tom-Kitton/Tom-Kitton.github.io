@@ -9,8 +9,8 @@ margin-left: 200px;
 }
 
 
-body {
-	align-content: justify;
+p {
+	align-content: left;
     background-color: lightgrey;
     margin-top: 70px;
 	margin-right:70px;
