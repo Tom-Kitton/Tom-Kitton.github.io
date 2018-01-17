@@ -1,3 +1,7 @@
+body {
+	background-image: url(background.jpg);
+}
+
 h1 {
 	color: #ffffff;
 	background-color: black; 
@@ -31,6 +35,4 @@ p {
 	margin-bottom: 50px;
 	margin-left: 70px;
 }
-body {
-	background-image: url(background.jpg);
-}
+
