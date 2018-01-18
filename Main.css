@@ -45,7 +45,8 @@ h3 {
 
 p {
 	font-family: Georgia, Times, "Times New Roman" serif;
-	text-align: justify; 
+	text-align: justify;
+	background-color: #ffffff; 
     margin-top: 25px;
 	margin-right:70px;
 	margin-bottom: 50px;
