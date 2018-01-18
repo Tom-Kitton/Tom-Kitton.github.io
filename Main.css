@@ -29,8 +29,10 @@ h3 {
 }
 
 .body-text {
-	background-color: yellow;
-	text-align: center;
+	background-color: #ffffff;
+	text-align: justify;
+	margin-right:30px;
+	margin-left: 30px;
 }
 
 p {
