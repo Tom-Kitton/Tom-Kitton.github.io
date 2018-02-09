@@ -4,9 +4,7 @@
 body {
 	max-width: 100%;
 	background-color: black;
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-}
+	}
 
 .heading {
 	background-color: white;
