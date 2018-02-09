@@ -4,12 +4,35 @@ body {
     background-attachment: fixed;
 }
 
+.Heading {
+	background-color: white;
+	text-align: center;
+	max-width: 750px;
+}
+
+.Subheading {
+	background-color: white;
+	text-align: center;
+	max-width: 500px;
+	margin-left: 125px;
+}
+
 .Tile {
+	color: black;
+	text-align: center;
 	background-color: white;
 	max-width: 300px;
 	max-height: 300px;
+	margin-left: 50px;
 }
 .Image {
+	text-align: center;
 	max-height: 200px;
 	max-width: 200px;
+	margin-left: 50px;
+}
+
+.Label {
+	color: black;
+	text-align: center;
 }
