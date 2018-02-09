@@ -3,5 +3,33 @@
 }
 body {
 	max-width: 100%;
-	background-color: white;
 	}
+
+.row {
+	
+}
+
+.main-heading{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.array{
+	background-color: black
+	color: white;
+}
+.tile-one{
+	text-align: center;
+
+}
+
+.tile-two{
+	text-align: center;
+}
+
+.tile-three{
+	text-align: center;
+}
+.label{
+
+}
