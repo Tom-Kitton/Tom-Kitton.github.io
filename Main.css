@@ -19,6 +19,13 @@ body {
 	margin-top: 20px;
 }
 
+.Array {
+	color: black;
+	text-align: center;
+	background-color: white;
+	max-width: 100%
+}
+
 .Tile {
 	color: black;
 	text-align: center;
@@ -27,7 +34,7 @@ body {
 	max-height: 500px;
 	margin-left: 1%;
 	margin-top: 20px;
-	display: flex;
+	display: inline-flex;
 }
 .Image {
 	text-align: center;
