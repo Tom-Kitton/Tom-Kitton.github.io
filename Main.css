@@ -24,7 +24,7 @@ body {
 	text-align: center;
 	background-color: white;
 	max-width: 100%;
-	display: inline-block;
+	display: flex;
 	margin-top: 20px;
 }
 
@@ -36,7 +36,7 @@ body {
 	max-height: 500px;
 	margin-left: 1%;
 	margin-top: 20px;
-	display: inline-block;
+	display: flex;
 }
 .Image {
 	text-align: center;
