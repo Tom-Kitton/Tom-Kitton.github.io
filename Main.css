@@ -22,31 +22,19 @@ body {
 	margin-top: 20px;
 }
 
-.Array {
+.img-left {
 	color: black;
 	text-align: center;
-	background-color: white;
-	max-width: 100%;
-	margin-top: 20px;
 }
 
-.Tile {
+.img-center {
 	color: black;
 	text-align: center;
-	background-color: white;
-	max-width: 30%;
-	max-height: 500px;
-	margin-left: 1%;
-	margin-top: 20px;
-	
 }
-.Image {
-	color: black;
 
+.img-right {
+	color: black;
 	text-align: center;
-	max-height: 450px;
-	max-width: 80%;
-	margin-left: 10%;
 }
 
 .Label {
