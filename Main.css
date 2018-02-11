@@ -1,5 +1,5 @@
 *{
-	outline: 1px solid red !important;
+	outline: 0px solid red !important;
 }
 body {
 	max-width: 100%;
@@ -20,6 +20,7 @@ body {
 }
 
 .array{
+	padding-top: 20px;
 
 }
 .tile-one{
@@ -38,8 +39,26 @@ body {
 	background-color: black;
 	padding-top: 10px;
 }
+
+.main-heading{
+	font-family: 'Inknut Antiqua', serif;
+	font-size: 300%;
+
+}
+
 .label{
+	font-family: serif;
 	background-color: black;
 	color: white;
+	font-size: 200%;
+	font-style: italic;
 
+}
+.label-text{
+	font-family: serif;
+	background-color: black;
+	color: white;
+	font-size: 100%;
+	text-align: left;
+		
 }
