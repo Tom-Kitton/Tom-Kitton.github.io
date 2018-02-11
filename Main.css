@@ -1,5 +1,5 @@
 *{
-	outline: 0px solid red !important;
+	outline: 1px solid red !important;
 }
 body {
 	max-width: 100%;
@@ -61,4 +61,18 @@ body {
 	font-size: 100%;
 	text-align: left;
 		
+}
+
+.thumbnail{
+
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
 }
