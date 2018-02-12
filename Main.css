@@ -1,5 +1,5 @@
 *{
-	outline: 1px solid red !important;
+	outline: 0px solid red !important;
 }
 body {
 	max-width: 100%;
@@ -7,6 +7,23 @@ body {
 	padding-top: 10px;
 	}
 
+a:link {
+	color: white;
+	font-family: 'Inknut Antiqua', serif;
+	text-decoration: none;
+}
+
+a:visited {
+	color: red;
+	font-family: 'Inknut Antiqua', serif;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	font-family: 'Inknut Antiqua', serif;
+	text-decoration: none;
+}
 .row {
 	
 }
@@ -17,32 +34,26 @@ body {
 	color: white;
 	background-color: black;
 	padding-top: 10px;
+	font-family: 'Inknut Antiqua', serif;
+	font-size: 300%;	
 }
 
-.array{
+.array {
 	padding-top: 20px;
 
 }
-.tile-one{
-	text-align: center;
-	background-color: black;
-	padding-top: 10px;
-}
-.tile-two{
+
+.tile{
 	text-align: center;
 	background-color: black;
 	padding-top: 10px;
 }
 
-.tile-three{
-	text-align: center;
-	background-color: black;
-	padding-top: 10px;
+.tile img {
+ width: 100%;
+    height: auto;
 }
 
-.main-heading{
-	font-family: 'Inknut Antiqua', serif;
-	font-size: 300%;
 
 }
 
@@ -63,16 +74,39 @@ body {
 		
 }
 
-.thumbnail{
-
+.thumbnail-left{
+z-index: 999;
 }
 
-.thumbnail:hover {
+.thumbnail-centre{
+z-index: 999;
+}
+
+.thumbnail-right{
+z-index: 999;
+}
+
+.thumbnail-left:hover {
     position:relative;
-    top:-25px;
-    left:-35px;
-    width:500px;
-    height:auto;
-    display:block;
-    z-index:999;
+    top: -25px;
+    left: -25px;
+    width:750px;
+    height: auto;
+    display: block;
+    z-index: 999;
+}
+
+.home-button{
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	border: none;
+	background-color: black;
+	font-family: "Inknut Antiqua", serif;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
