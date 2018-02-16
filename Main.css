@@ -87,15 +87,32 @@ z-index: 999;
 }
 
 .thumbnail-left:hover {
-    position:relative;
-    top: -25px;
-    left: -25px;
-    width:750px;
+    position:fixed;
+    top: 10%;
+    left: 12.5%;
+    width:75%;
     height: auto;
-    display: block;
     z-index: 999;
 }
 
+.thumbnail-center:hover {
+    position:fixed;
+    top: 10%;
+    left: 12.5%;
+    width:75%;
+    height: auto;
+    z-index: 999;
+}
+
+.thumbnail-right:hover {
+    position:fixed;
+    top: 10%;
+    left: 12.5%;
+    width:75%;
+    height: auto;
+    z-index: 999;
+
+    }
 .home-button{
 	position: fixed;
 	bottom: 30px;
