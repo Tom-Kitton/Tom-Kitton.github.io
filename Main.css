@@ -50,8 +50,9 @@ a:hover {
 }
 
 .tile img {
- width: 100%;
+ 	width: 100%;
     height: auto;
+
 }
 
 
@@ -75,22 +76,23 @@ a:hover {
 }
 
 .thumbnail-left{
-z-index: 999;
+z-index: 998;
+
 }
 
 .thumbnail-centre{
-z-index: 999;
+z-index: 998;
 }
 
 .thumbnail-right{
-z-index: 999;
+z-index: 998;
 }
 
 .thumbnail-left:hover {
     position:fixed;
     top: 10%;
-    left: 12.5%;
-    width:75%;
+    left: 20%;
+    width:60%;
     height: auto;
     z-index: 999;
 }
@@ -98,8 +100,8 @@ z-index: 999;
 .thumbnail-center:hover {
     position:fixed;
     top: 10%;
-    left: 12.5%;
-    width:75%;
+    left: 20%;
+    width:60%;
     height: auto;
     z-index: 999;
 }
@@ -107,12 +109,17 @@ z-index: 999;
 .thumbnail-right:hover {
     position:fixed;
     top: 10%;
-    left: 12.5%;
-    width:75%;
+    left: 20%;
+    width:60%;
     height: auto;
     z-index: 999;
 
     }
+
+ .spacer {
+ 	z-index: -1;
+ 	position: relative;
+ }
 .home-button{
 	position: fixed;
 	bottom: 30px;
